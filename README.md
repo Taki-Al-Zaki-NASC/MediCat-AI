@@ -51,3 +51,21 @@ git clone https://github.com/yourusername/medicat-ai.git
 cd medicat-ai
 flutter pub get
 flutter run
+```
+# 👤 Contributor
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Taki-Al-Zaki-NASC">
+        <img src="https://avatars.githubusercontent.com/u/122244287?v=4" width="60" height="60" style="border-radius: 50%;" alt="Taki Al Zaki"/>
+        <br /><sub><b>Taki Al Zaki</b></sub>
+      </a>
+      <br />🚀 Creator & Maintainer
+    </td>
+    <td align="right">
+      <a href="https://www.buymeacoffee.com/takizaki">
+        <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" alt="Buy Me a Coffee"/>
+      </a>
+    </td>
+  </tr>
+</table>
