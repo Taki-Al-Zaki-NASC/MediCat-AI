@@ -15,7 +15,7 @@ Take a look at our **current release version** in action!
 
 <img src="https://github.com/Taki-Al-Zaki-NASC/MediCat-AI/blob/main/home-ui.png" width="250" alt="Medicat Home UI">
 <img src="https://github.com/Taki-Al-Zaki-NASC/MediCat-AI/blob/main/kthome.png" width="250" alt="AI Chat Interface">
-<img src="https://github.com/yourusername/medicat-ai/blob/main/screenshots/report-ui.png" width="250" alt="Medical Report Tracker">
+<img src="https://github.com/Taki-Al-Zaki-NASC/MediCat-AI/blob/main/hthome.png" width="250" alt="Medical Report Tracker">
 
 ---
 
