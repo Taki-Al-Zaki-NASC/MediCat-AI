@@ -1,2 +1,53 @@
-# MediCat-AI
-This application is made for searching medical equipments or medicine near by you and the medcine use for and side effects and more 
+# 🧠 Medicat AI – Your Intelligent Health Companion
+
+[![Google Play](https://img.shields.io/badge/Download-Google_Play-3ddc84?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=your.package.name)
+
+**Medicat AI** is a smart healthcare assistant powered by AI – designed to help you manage health insights, understand symptoms, track progress, and stay informed with next-gen technology.
+
+---
+
+## 📱 Current UI Showcase (Live Release)
+
+Take a look at our **current release version** in action!
+
+> ⚠️ UI is constantly evolving with user feedback and health trends.  
+> Stay tuned for updates via Play Store and GitHub.
+
+<img src="https://github.com/yourusername/medicat-ai/blob/main/screenshots/home-ui.png" width="250" alt="Medicat Home UI">
+<img src="https://github.com/yourusername/medicat-ai/blob/main/screenshots/chat-ui.png" width="250" alt="AI Chat Interface">
+<img src="https://github.com/yourusername/medicat-ai/blob/main/screenshots/report-ui.png" width="250" alt="Medical Report Tracker">
+
+---
+
+## 🚀 Upcoming Features
+
+We're working on exciting improvements!
+
+- 🩺 **Symptom-Based Diagnosis AI**
+- 📊 **Health Report Analyzer (PDF/Scan Input)**
+- 🧘 **Mental Health Companion Module**
+- ⏰ **Medicine Time Reminder with Voice**
+- 🌐 **Bangla & English Language Support**
+- 🔒 **Privacy-First Cloud Encryption**
+- 💬 **24/7 AI Health Chat (with Medical LLM)**
+
+---
+
+## 🛠️ Built With
+
+- `Kotlin` – Cross-platform development  
+- `Firebase & AWS` – Cloud, database, and authentication  
+- `Python + GPT API` – Health-focused conversational AI  
+- `TensorFlow Lite` – Future updates for offline AI
+
+---
+
+## 📦 Installation
+
+Clone the repo & run locally for dev or contribution:
+
+```bash
+git clone https://github.com/yourusername/medicat-ai.git
+cd medicat-ai
+flutter pub get
+flutter run
