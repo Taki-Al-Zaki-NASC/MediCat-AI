@@ -13,7 +13,7 @@ Take a look at our **current release version** in action!
 > ⚠️ UI is constantly evolving with user feedback and health trends.  
 > Stay tuned for updates via Play Store and GitHub.
 
-<img src="[https://github.com/yourusername/medicat-ai/blob/main/screenshots/home-ui.png](https://github.com/Taki-Al-Zaki-NASC/MediCat-AI/blob/main/home-ui.png)" width="250" alt="Medicat Home UI">
+<img src="https://github.com/Taki-Al-Zaki-NASC/MediCat-AI/blob/main/home-ui.png" width="250" alt="Medicat Home UI">
 <img src="https://github.com/yourusername/medicat-ai/blob/main/screenshots/chat-ui.png" width="250" alt="AI Chat Interface">
 <img src="https://github.com/yourusername/medicat-ai/blob/main/screenshots/report-ui.png" width="250" alt="Medical Report Tracker">
 
